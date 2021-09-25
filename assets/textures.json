@@ -1,0 +1,13 @@
+[
+   { "name": "17", "path": "res://assets/characters/17.png" },
+   { "name": "18", "path": "res://assets/characters/18.png" },
+   { "name": "bills", "path": "res://assets/characters/bills.png" },
+   { "name": "cell", "path": "res://assets/characters/cell.png" },
+   { "name": "freezer", "path": "res://assets/characters/freezer.png" },
+   { "name": "gohan", "path": "res://assets/characters/gohan.png" },
+   { "name": "goku", "path": "res://assets/characters/goku.png" },
+   { "name": "krilin", "path": "res://assets/characters/krillin.png" },
+   { "name": "piccolo", "path": "res://assets/characters/piccolo.png" },
+   { "name": "roshi", "path": "res://assets/characters/roshi.png" },
+   { "name": "vegeta", "path": "res://assets/characters/vegeta.png" }
+]
